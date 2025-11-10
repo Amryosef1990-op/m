@@ -1,0 +1,186 @@
+.container
+{
+display: flex;
+height: 100vh;
+
+
+}
+.leftside
+{
+flex: 1;
+background-image: url(img/Thutmose-III.jpg);
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+}
+
+.rightside
+{
+flex: 1;
+background-image: url(img/images.jfif);
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+font-size: 25px;
+}
+ul
+{
+color: gold;
+
+}
+h2
+{
+font-size: 50px;
+color: gold;
+margin-top: -29.7vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
